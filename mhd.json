@@ -9,7 +9,7 @@
 	"content" : {
 		"article" : {
 			"title" : "Test Article",
-			"content" : "http://hackerhub.org/template/article.md"
+			"content" : "https://raw.github.com/mhdingler/hackerhub/master/article.md"
 		},
 		"blog" : {
 			"title" : "A Blog",
@@ -17,7 +17,7 @@
 			"content" : {
 				"f1rst" : {
 					"created" : "02.10.2011",
-					"content" : "http://hackerhub.org/template/first.md"
+					"content" : "https://raw.github.com/mhdingler/hackerhub/master/first.md"
 				}
 			}
 		},
