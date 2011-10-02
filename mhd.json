@@ -21,12 +21,6 @@
 				}
 			}
 		},
-		"hackernews" : {
-			"title" : "Hacker News",
-			"type" : "rss",
-			"show_description" : false,
-			"content" : "http://news.ycombinator.com/rss"
-		},
 		"twitter":{
 			"title" : "Twitter",
 			"type" : "twitter",
