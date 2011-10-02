@@ -1,0 +1,36 @@
+{
+	"settings" : {
+		"id" : "mhd",
+		"name" : "Michael Dingler",
+		"avatar" : "http://www.gravatar.com/avatar/73873b00f14caf08ef3e3c978d5a0d87",
+		"disqus_shortname" : "mhd",
+		"enable_search" : true
+	},
+	"content" : {
+		"article" : {
+			"title" : "Test Article",
+			"content" : "http://hackerhub.org/template/article.md"
+		},
+		"blog" : {
+			"title" : "A Blog",
+			"type" : "blog",
+			"content" : {
+				"f1rst" : {
+					"created" : "02.10.2011",
+					"content" : "http://hackerhub.org/template/first.md"
+				}
+			}
+		},
+		"hackernews" : {
+			"title" : "Hacker News",
+			"type" : "rss",
+			"show_description" : false,
+			"content" : "http://news.ycombinator.com/rss"
+		},
+		"twitter":{
+			"title" : "Twitter",
+			"type" : "twitter",
+			"username" : "mhd"
+		}
+	}
+}
