@@ -8,7 +8,7 @@
 	},
 	"content" : {
 		"article" : {
-			"title" : "Test Article",
+			"title" : "Lorem Ipsum Article",
 			"content" : "https://raw.github.com/mhdingler/hackerhub/master/article.md"
 		},
 		"blog" : {
